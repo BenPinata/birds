@@ -3,31 +3,31 @@ layout: default
 ---
 
 
-# Bird #1
+# Dark-Eyed Junco
 
 ![Branching](/Junco.png)
 
-Info about bird #1 here.
+Info about Dark-Eyed Junco here.
 
 
-# Bird #2
+# American Robin
 
-![Branching](/Junco.png)
+![Branching](/AmericanRobin.jpg)
 
-Info about bird #2 here.
-
-
-# Bird #3
-
-![Branching](/Junco.png)
-
-Info about bird #3 here.
+Info about American Robin here.
 
 
-# Bird #4
+# Anna's Hummingbird
 
-![Branching](/Junco.png)
+![Branching](/AnnasHummingbird.jpg)
 
-Info about bird #4 here.
+Info about Anna's Hummingbird here.
+
+
+# Black Capped Chickadee
+
+![Branching](/BlackCappedChickadee.jpg)
+
+Info about Black Capped Chickadee here.
 
 
