@@ -1,5 +1,5 @@
-title: Leap Day Birds
-description: Leap Day is a theme for GitHub Pages.
-show_downloads: true
+title: Birds of the Pacific Northwest
+description: A page dedicated to 4 common species of birds in the PNW.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
