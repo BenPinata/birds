@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-# Dark-Eyed Junco
+# Dark-eyed Junco
 
-![Dark-Eyed Junco](/Junco.jpg)
+![Dark-eyed Junco](/Junco.jpg)
 [© Sam Hough | Macaulay Library](https://macaulaylibrary.org/asset/38293181)
 
-Info about Dark-Eyed Junco here.
+Info about Dark-eyed Junco here.
 
 
 # American Robin
